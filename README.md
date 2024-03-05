@@ -1,7 +1,15 @@
 
-<h1 align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=33&duration=3000&pause=1&color=000000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Imen+Sebteoui+!" alt="Typing SVG" />
-</h1>
+
+🔭 I’m currently working on **.Net E-commerce Project**
+ 
+ 🌱 I’m currently learning **C#, Docker, Angular**
+
+💬 Ask me about **Technology and Agiliy at work**
+
+📫 How to reach me **lmensebteoui@gmail.com**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imensebteoui/) 
